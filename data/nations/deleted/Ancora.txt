@@ -1,0 +1,7 @@
+towns=Airavata,Plastic_Beach
+capital=Airavata
+assistants=TazZaaH
+allies=
+enemies=
+taxes=0.0
+neutral=false
