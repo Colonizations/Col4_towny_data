@@ -1,7 +1,0 @@
-towns=Trotterdam_Harbour,New_Auckland,Ashfeld
-capital=Trotterdam_Harbour
-assistants=
-allies=Charcoal_Empire
-enemies=
-taxes=0.0
-neutral=true
