@@ -1,0 +1,8 @@
+towns=New_Charcoaltropolis,Newer_Home,New_Cloudsdale
+capital=New_Charcoaltropolis
+tag=CHAR
+assistants=
+allies=Great_TD_Alliance
+enemies=
+taxes=100.0
+neutral=false
