@@ -1,7 +1,0 @@
-towns=Vault_42,Meep,MuffinsVille
-capital=Vault_42
-assistants=
-allies=
-enemies=
-taxes=0.0
-neutral=false
