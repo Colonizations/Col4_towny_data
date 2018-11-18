@@ -1,0 +1,7 @@
+towns=NewCloudsdale
+capital=NewCloudsdale
+assistants=
+allies=Great_TD_Alliance,Charcoal_Empire
+enemies=
+taxes=0.0
+neutral=false

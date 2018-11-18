@@ -1,0 +1,7 @@
+towns=Vault_42,MuffinsVille,Meep,Plastic_Beach
+capital=Vault_42
+assistants=
+allies=Great_TD_Alliance
+enemies=
+taxes=0.0
+neutral=false

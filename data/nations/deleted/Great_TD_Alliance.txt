@@ -1,0 +1,7 @@
+towns=YetAnotherTrotterdam,Area-Eleventy-7
+capital=YetAnotherTrotterdam
+assistants=
+allies=
+enemies=
+taxes=0.0
+neutral=false

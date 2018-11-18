@@ -1,0 +1,7 @@
+towns=CCCP
+capital=CCCP
+assistants=
+allies=
+enemies=
+taxes=0.0
+neutral=false

@@ -1,0 +1,7 @@
+towns=New_Cloudsdale
+capital=New_Cloudsdale
+assistants=
+allies=Charcoal_Empire
+enemies=
+taxes=10.0
+neutral=false
