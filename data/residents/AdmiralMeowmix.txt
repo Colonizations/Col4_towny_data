@@ -1,0 +1,14 @@
+lastOnline=1496897333472
+registered=1492988022742
+isNPC=false
+isJailed=false
+JailSpawn=0
+JailTown=
+title=
+surname=
+town=New_Charcoaltropolis
+town-ranks=
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

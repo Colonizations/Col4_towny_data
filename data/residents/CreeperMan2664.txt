@@ -1,0 +1,14 @@
+lastOnline=1501801730719
+registered=1495917935561
+isNPC=false
+isJailed=false
+JailSpawn=0
+JailTown=
+title=
+surname=
+town=Vault_42
+town-ranks=assistant
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

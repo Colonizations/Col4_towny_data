@@ -1,0 +1,14 @@
+lastOnline=1481177551167
+registered=1481176861634
+isNPC=false
+isJailed=false
+JailSpawn=0
+JailTown=
+title=
+surname=
+town=MuffinsVille
+town-ranks=
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

@@ -1,0 +1,14 @@
+lastOnline=1502153107551
+registered=1472344574437
+isNPC=false
+isJailed=false
+JailSpawn=0
+JailTown=
+title=Amazing 
+surname= Charcoal
+town=New_Charcoaltropolis
+town-ranks=
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

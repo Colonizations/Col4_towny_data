@@ -1,0 +1,14 @@
+lastOnline=1501971223277
+registered=1472403954369
+isNPC=false
+isJailed=false
+JailSpawn=0
+JailTown=
+title=
+surname=
+town=Trotterdam_Harbour
+town-ranks=
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

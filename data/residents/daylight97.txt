@@ -1,0 +1,14 @@
+lastOnline=1502160201689
+registered=1478743806600
+isNPC=false
+isJailed=false
+JailSpawn=0
+JailTown=
+title=
+surname=
+town=Newer_Home
+town-ranks=assistant
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

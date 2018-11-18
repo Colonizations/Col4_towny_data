@@ -1,0 +1,14 @@
+lastOnline=1501956417961
+registered=1492454615672
+isNPC=false
+isJailed=false
+JailSpawn=0
+JailTown=
+title=
+surname=
+town=New_Cloudsdale
+town-ranks=
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

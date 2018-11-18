@@ -1,0 +1,11 @@
+lastOnline=1502109863036
+registered=1502005272347
+isNPC=false
+isJailed=false
+JailSpawn=0
+JailTown=
+title=
+surname=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse
