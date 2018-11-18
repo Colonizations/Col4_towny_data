@@ -1,0 +1,8 @@
+Outlands1
+Zyrren_the_end
+events
+OCEAN
+vanilla
+dungeons
+Zyrren
+Zyrren_nether
